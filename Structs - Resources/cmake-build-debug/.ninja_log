@@ -1,0 +1,5 @@
+# ninja log v5
+0	729	1698192711564552655	CMakeFiles/Structs___Resources.dir/struct1.c.o	2b7cda3ea22140d7
+0	803	1698193383332662326	CMakeFiles/Structs___Resources.dir/struct4.c.o	69a610b41614e7f9
+804	925	1698193383464408292	Structs___Resources	4702a4ef572326cf
+0	187	1700057722149191829	build.ninja	e053a9050e52e737

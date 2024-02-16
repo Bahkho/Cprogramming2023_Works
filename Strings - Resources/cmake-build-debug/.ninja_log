@@ -1,0 +1,6 @@
+# ninja log v5
+1	123	1698192640876300841	build.ninja	58e1ca20e6772cf1
+0	280	1698192606466715660	CMakeFiles/Strings___Resources.dir/string2.c.o	5f087813613191e0
+1	281	1698192606467152521	CMakeFiles/Strings___Resources.dir/stringcat.c.o	9a1852ba61236a23
+1	109	1698192640876300841	build.ninja	58e1ca20e6772cf1
+0	92	1698192640981532080	Strings___Resources	eece119e86f50120

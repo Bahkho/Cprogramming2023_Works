@@ -1,0 +1,6 @@
+# ninja log v5
+1	100	1697049807731565637	CMakeFiles/Making_Decisions___Resources.dir/leap.c.o	9efe853c4e3b7a94
+0	93	1697047839403940984	CMakeFiles/Making_Decisions___Resources.dir/bool.c.o	c0aec6e521c380f7
+99	202	1697050677421127005	Making_Decisions___Resources	3f6f57e49f267517
+1	110	1697834956217369671	build.ninja	6d7d1d7c4954e17b
+1	99	1697050677317869405	CMakeFiles/Making_Decisions___Resources.dir/main.c.o	45fc92bef72cbe3b

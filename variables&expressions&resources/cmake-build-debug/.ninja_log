@@ -1,0 +1,5 @@
+# ninja log v5
+113	221	1696602391101583067	variables_expressions_resources	ead0824ae4dc2115
+1	114	1696601246914330421	CMakeFiles/variables_expressions_resources.dir/expr.c.o	2d99915ba0950f20
+1	112	1696602390990499813	CMakeFiles/variables_expressions_resources.dir/scoping.c.o	5af7b7bb2211551e
+0	123	1697033493924836637	build.ninja	c2a876d59b30ad67

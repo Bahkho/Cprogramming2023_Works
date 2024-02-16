@@ -1,0 +1,15 @@
+# ninja log v5
+1	723	1696594712715352597	CMakeFiles/variables___expressions.dir/main.c.o	a495b3098ddeb32d
+724	836	1696594712841374956	variables___expressions	58bc65f0e2f1e1ae
+4	810	1696594949037481309	CMakeFiles/variables___expressions.dir/expr.c.o	83ffa054afb5e811
+3	810	1696594949037481795	CMakeFiles/variables___expressions.dir/main.c.o	a495b3098ddeb32d
+3	810	1696594949037482534	CMakeFiles/variables___expressions.dir/scoping.c.o	36471a16a5a82ef3
+1	125	1696596045421319707	CMakeFiles/variables___expressions.dir/main.c.o	a495b3098ddeb32d
+3	125	1696596045422054225	CMakeFiles/variables___expressions.dir/expr.c.o	83ffa054afb5e811
+2	169	1696596045467728696	CMakeFiles/variables___expressions.dir/scoping.c.o	36471a16a5a82ef3
+1	105	1696596080243576447	CMakeFiles/variables___expressions.dir/scoping.c.o	36471a16a5a82ef3
+2	106	1696596080242674557	CMakeFiles/variables___expressions.dir/expr.c.o	83ffa054afb5e811
+2	107	1696596080246445409	CMakeFiles/variables___expressions.dir/main.c.o	a495b3098ddeb32d
+1	741	1696596477908103443	CMakeFiles/variables___expressions.dir/main.c.o	a495b3098ddeb32d
+1	741	1696596477908097259	CMakeFiles/variables___expressions.dir/scoping.c.o	36471a16a5a82ef3
+2	742	1696596477908081921	CMakeFiles/variables___expressions.dir/expr.c.o	83ffa054afb5e811
